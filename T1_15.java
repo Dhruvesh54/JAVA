@@ -6,7 +6,7 @@ import java.util.*;
 class t1_15 {
     public static void main(String[] args) {
         Scanner ob = new Scanner(System.in);
-        System.out.println("Enter number");
+        System.out.println("Enter The Binary Number");
         int n = ob.nextInt();
         int d = 0;
         int a = 0;
